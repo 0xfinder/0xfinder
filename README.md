@@ -70,12 +70,10 @@ Here are some ideas to get you started:
 
 <details>
     <summary><strong>Github Stats</strong></summary>
-    <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xfinder&theme=github" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xfinder&theme=github" />
     </a>
-    </div>
 </details>
