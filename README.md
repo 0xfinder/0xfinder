@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <li>CPU: Intel i7-7500U (max 3.50GHz 2C X86_64)</li>
         <li>RAM: 8GB (DDR4-2666)</li>
         <li>SSD: 512GB (NVMe)</li>
-        <li>OS: Windows 11</li>
+        <li>OS: Windows 10</li>
       </ul>
     </details>
     <details>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
         <li>RAM: 24GB (DDR4)</li>
         <li>SSD: 256GB (NVMe)</li>
         <li>HDD: 1TB (SATA)</li>
-        <li>OS: Windows 11</li>
+        <li>OS: Windows 10</li>
       </ul>
     </details>
     <details>
