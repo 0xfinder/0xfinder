@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -   🔭 I’m currently working on discord bots
--   🌱 I’m currently learning python and rust
+-   🌱 I’m currently learning typescript and solidity
 -   🤔 I’m looking for help with life
 -   💬 Ask me about life
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
         <li>OS: Windows 10</li>
       </ul>
     </details>
-    <details>
+    <details>j
       <summary><strong>Desktop 2</strong></summary>
       <ul>
         <li>CPU: Intel i7-12700KF (max 5.00GHz 12C X86_64)</li>
@@ -68,7 +68,19 @@ Here are some ideas to get you started:
     </ul>
 
 </details>
+-->
 
-<div>
- <img width="50%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xfinder&theme=dracula" />
-</div> -->
+<details>
+<summary><strong>Stats</strong></summary>
+<div align="center">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xfinder&theme=monokai" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xfinder&theme=monokai" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xfinder&theme=monokai" />
+  </a>
+</div>
+</details>
