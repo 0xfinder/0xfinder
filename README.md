@@ -73,8 +73,10 @@ Here are some ideas to get you started:
 <details>
 <summary><strong>Stats</strong></summary>
 <div align="center">
-![](https://github.com/0xfinder/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/0xfinder/github-stats/blob/master/generated/languages.svg)
+
+[![](https://raw.githubusercontent.com/0xfinder/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+[![](https://raw.githubusercontent.com/0xfinder/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xfinder&theme=monokai" />
   </a>
@@ -86,7 +88,3 @@ Here are some ideas to get you started:
   </a> -->
 </div>
 </details>
-
-<!-- <div align="center">
-    <img src="https://github.com/0xfinder/github-stats/blob/master/generated/overview.svg">
-</div> -->
