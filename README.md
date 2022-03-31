@@ -1,4 +1,4 @@
-### hi, i write code
+<!-- ### hi, i write code -->
 
 <!--
 **0xfinder/0xfinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -   🔭 I’m currently working on discord bots
 -   🌱 I’m currently learning typescript and solidity
 -   🤔 I’m looking for help with life
--   💬 Ask me about life
+-   💬 Ask me about anything
 
 <div align="center">
   
@@ -73,7 +73,9 @@ Here are some ideas to get you started:
 <details>
 <summary><strong>Stats</strong></summary>
 <div align="center">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+![](https://github.com/0xfinder/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/0xfinder/github-stats/blob/master/generated/languages.svg)
+<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xfinder&theme=monokai" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -81,6 +83,10 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xfinder&theme=monokai" />
-  </a>
+  </a> -->
 </div>
 </details>
+
+<!-- <div align="center">
+    <img src="https://github.com/0xfinder/github-stats/blob/master/generated/overview.svg">
+</div> -->
