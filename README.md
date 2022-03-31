@@ -1,4 +1,4 @@
-<!-- ### hi, i write code -->
+### i write code in my free
 
 <!--
 **0xfinder/0xfinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,62 +31,12 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- <br />
 <details>
-    <summary><strong>Computers</strong></summary>
-    <ul>
-    <details>
-      <summary><strong>Laptop 1</strong></summary>
-      <ul>
-        <li>CPU: Intel i7-7500U (max 3.50GHz 2C X86_64)</li>
-        <li>RAM: 8GB (DDR4-2666)</li>
-        <li>SSD: 512GB (NVMe)</li>
-        <li>OS: Windows 10</li>
-      </ul>
-    </details>
-    <details>
-      <summary><strong>Desktop 1</strong></summary>
-      <ul>
-        <li>CPU: Intel i7-8700 (max 4.60GHz 6C X86_64)</li>
-        <li>RAM: 24GB (DDR4)</li>
-        <li>SSD: 256GB (NVMe)</li>
-        <li>HDD: 1TB (SATA)</li>
-        <li>OS: Windows 10</li>
-      </ul>
-    </details>
-    <details>j
-      <summary><strong>Desktop 2</strong></summary>
-      <ul>
-        <li>CPU: Intel i7-12700KF (max 5.00GHz 12C X86_64)</li>
-        <li>RAM: 32GB (DDR4)</li>
-        <li>SSD: 1TB (NVMe)</li>
-        <li>HDD: 2TB (SATA 7200rpm)
-        <li>OS1: Windows 11</li>
-        <li>OS2: Arch Linux</li>
-      </ul>
-    </details>
-    </ul>
-
-</details>
--->
-
-<details>
-<summary><strong>Stats</strong></summary>
+<summary><strong>stats</strong></summary>
 <div align="center">
-![](https://github.com/0xfinder/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/0xfinder/github-stats/blob/master/generated/languages.svg)
-<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xfinder&theme=monokai" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xfinder&theme=monokai" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xfinder&theme=monokai" />
-  </a> -->
+
+[![](https://raw.githubusercontent.com/0xfinder/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+[![](https://raw.githubusercontent.com/0xfinder/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+
 </div>
 </details>
-
-<!-- <div align="center">
-    <img src="https://github.com/0xfinder/github-stats/blob/master/generated/overview.svg">
-</div> -->
