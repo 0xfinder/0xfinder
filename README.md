@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -   🔭 I’m currently working on discord bots
--   🌱 I’m currently learning typescript and solidity
+-   🌱 I’m currently learning typescript and rust
 -   🤔 I’m looking for help with life
 -   💬 Ask me about anything
 
