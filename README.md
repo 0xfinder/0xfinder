@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -   🔭 I’m currently working on discord bots
--   🌱 I’m currently learning typescript and rust
+-   🌱 I’m currently learning rust
 -   🤔 I’m looking for help with life
 -   💬 Ask me about anything
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
 
 </div>
-
+<!--
 <details>
 <summary><strong>stats</strong></summary>
 <div align="center">
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 
 </div>
 </details>
+-->
