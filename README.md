@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--   🔭 I’m currently working on discord bots
+-   🔭 I’m currently conscripted and writing vba
 -   🌱 I’m currently learning rust
 -   🤔 I’m looking for help with life
 -   💬 Ask me about anything
