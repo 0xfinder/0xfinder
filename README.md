@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![OS:Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS:Windows 11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
 
 </div>
 <!--
